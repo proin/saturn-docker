@@ -36,7 +36,7 @@ RUN pip install \
         sklearn \
         tensorflow
 
-RUN /n v6.9.1
+RUN /n v7.2.1
 
 RUN npm install -g lwot bower
 
