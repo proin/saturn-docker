@@ -58,4 +58,7 @@ EXPOSE 3000
 
 WORKDIR "/"
 
-CMD source ~/.bashrc && cd /saturn && lwot express forever start --silent && lwot express forever log
+CMD cd /saturn && \
+    . /root/torch/install/bin/torch-activate && \ 
+    lwot express forever start --silent && \
+    lwot express forever log
