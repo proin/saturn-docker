@@ -1,10 +1,10 @@
-[![license](./badge/license.svg)]()
-[![ubuntu](./badge/ubuntu.svg)]()
-[![node](./badge/node.svg)]()
-[![python](./badge/python.svg)]()
-[![tensorflow](./badge/tensorflow.svg)]()
-[![r](./badge/R.svg)]()
-[![torch](./badge/torch.svg)]()
+[![license](badge/license.svg)]()
+[![ubuntu](badge/ubuntu.svg)]()
+[![node](badge/node.svg)]()
+[![python](badge/python.svg)]()
+[![tensorflow](badge/tensorflow.svg)]()
+[![r](badge/R.svg)]()
+[![torch](badge/torch.svg)]()
 
 
 ## Saturn Dockerfile
