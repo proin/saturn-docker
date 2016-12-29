@@ -1,12 +1,10 @@
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
-[![license](badge/license.svg)]()
-[![ubuntu](badge/ubuntu.svg)]()
-[![node](badge/node.svg)]()
-[![python](badge/python.svg)]()
-[![tensorflow](badge/tensorflow.svg)]()
-[![r](badge/R.svg)]()
-[![torch](badge/torch.svg)]()
-
+[![license](https://github.com/proin/saturn-docker/blob/master/badge/license.svg)]()
+[![ubuntu](https://github.com/proin/saturn-docker/blob/master/badge/ubuntu.svg)]()
+[![node](https://github.com/proin/saturn-docker/blob/master/badge/node.svg)]()
+[![python](https://github.com/proin/saturn-docker/blob/master/badge/python.svg)]()
+[![tensorflow](https://github.com/proin/saturn-docker/blob/master/badge/tensorflow.svg)]()
+[![r](https://github.com/proin/saturn-docker/blob/master/badge/R.svg)]()
+[![torch](https://github.com/proin/saturn-docker/blob/master/badge/torch.svg)]()
 
 ## Saturn Dockerfile
 
