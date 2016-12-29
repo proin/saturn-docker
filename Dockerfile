@@ -27,6 +27,12 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
         unzip \
         r-base
 
+RUN git clone https://github.com/torch/distro.git ~/torch --recursive
+RUN cd ~/torch && \
+    ./install-deps && \
+    ./install.sh && \
+    echo ". /root/torch/install/bin/torch-activate" >> ~/.bashrc
+
 RUN curl -O https://bootstrap.pypa.io/get-pip.py && \
     python get-pip.py && \
     rm get-pip.py
@@ -52,4 +58,4 @@ EXPOSE 3000
 
 WORKDIR "/"
 
-CMD cd /saturn && lwot express forever start --silent && lwot express forever log
+CMD source ~/.bashrc && cd /saturn && lwot express forever start --silent && lwot express forever log
