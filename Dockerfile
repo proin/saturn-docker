@@ -24,7 +24,8 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
         python-dev \
         rsync \
         software-properties-common \
-        unzip
+        unzip \
+        r-base
 
 RUN curl -O https://bootstrap.pypa.io/get-pip.py && \
     python get-pip.py && \
