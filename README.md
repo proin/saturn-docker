@@ -1,10 +1,10 @@
-[![license](https://github.com/proin/saturn-docker/blob/master/badge/license.svg)]()
-[![ubuntu](https://github.com/proin/saturn-docker/blob/master/badge/ubuntu.svg)]()
-[![node](https://github.com/proin/saturn-docker/blob/master/badge/node.svg)]()
-[![python](https://github.com/proin/saturn-docker/blob/master/badge/python.svg)]()
-[![tensorflow](https://github.com/proin/saturn-docker/blob/master/badge/tensorflow.svg)]()
-[![r](https://github.com/proin/saturn-docker/blob/master/badge/R.svg)]()
-[![torch](https://github.com/proin/saturn-docker/blob/master/badge/torch.svg)]()
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/proin/saturn-docker/master/LICENSE)
+[![ubuntu](https://img.shields.io/badge/ubuntu-14.04-blue.svg)]()
+[![node](https://img.shields.io/badge/node-v7.2.1-blue.svg)]()
+[![python](https://img.shields.io/badge/python-2.7.6-blue.svg)]()
+[![tensorflow](https://img.shields.io/badge/tensorflow-0.12.1-blue.svg)]()
+[![r](https://img.shields.io/badge/R-3.0.2-blue.svg)]()
+[![torch](https://img.shields.io/badge/torch-7-blue.svg)]()
 
 ## Saturn Dockerfile
 
