@@ -1,3 +1,4 @@
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
 [![license](badge/license.svg)]()
 [![ubuntu](badge/ubuntu.svg)]()
 [![node](badge/node.svg)]()
