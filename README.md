@@ -1,3 +1,12 @@
+[![test](./badge/license.svg)]()
+[![test](./badge/ubuntu.svg)]()
+[![test](./badge/node.svg)]()
+[![test](./badge/python.svg)]()
+[![test](./badge/tensorflow.svg)]()
+[![test](./badge/R.svg)]()
+[![test](./badge/torch.svg)]()
+
+
 ## Saturn Dockerfile
 
 This repository contains **Dockerfile** of Saturn for Docker's automated build published to the public Docker Hub Registry.
